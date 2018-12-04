@@ -56,7 +56,7 @@ I increased it to 1024 and I was able to get my desired score with less than 140
  
 # Plot of Rewards
 
-![Average of 100 Episode](resources/plot_average_of_100_episodes.png)
+![Average of 100 Episode](resources/plot_average_of_100_episodes_batch_size_1024.png)
 
 ```
 Episode 10 Average score: 0.00 Min: -0.00 Max: 0.05 Time: 0.04 Epsilon: 1.00
@@ -203,4 +203,4 @@ Solve in 1373 episodes. Average score: 0.50
 # Ideas for Future Work
 
 * Implementation and try other algorithm (ex. PPO)
-* Reduce learning time by adjusting hyper parameters
+* Reduce learning time by more adjusting hyper parameters
